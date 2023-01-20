@@ -1,2 +1,2 @@
-# Stack
-Created stack using array and linked list in c/c++
+# Stack and Queue
+Created stack & Queue using array and linked list in c/c++
